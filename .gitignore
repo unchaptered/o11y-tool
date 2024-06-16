@@ -1,0 +1,32 @@
+plaintext
+코드 복사
+# Go 프로젝트용 .gitignore 파일
+
+# 바이너리 파일들
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# 테스트 바이너리
+*.test
+
+# Go 패키지 캐시
+/pkg/
+
+# Go 모듈 캐시
+/mod/
+
+# 기본 에디터 파일들
+*~
+*.swp
+*.swo
+
+# 디렉토리 설정 파일들
+.vscode/
+.idea/
+.DS_Store
+
+# 로컬 설정 파일들
+.env
