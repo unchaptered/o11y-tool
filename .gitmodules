@@ -10,3 +10,6 @@
 [submodule "o11y-outbound-adaptor"]
 	path = o11y-outbound-adaptor
 	url = https://github.com/unchaptered/o11y-outbound-adaptor
+[submodule "o11y-inbound-adaptor"]
+	path = o11y-inbound-adaptor
+	url = https://github.com/unchaptered/o11y-inbound-adaptor
