@@ -1,0 +1,3 @@
+[submodule "o11y-inbound-trigger"]
+	path = o11y-inbound-trigger
+	url = https://github.com/unchaptered/o11y-inbound-trigger
