@@ -7,3 +7,6 @@
 [submodule "o11y-outbound-trigger"]
 	path = o11y-outbound-trigger
 	url = https://github.com/unchaptered/o11y-outbound-trigger
+[submodule "o11y-outbound-adaptor"]
+	path = o11y-outbound-adaptor
+	url = https://github.com/unchaptered/o11y-outbound-adaptor
