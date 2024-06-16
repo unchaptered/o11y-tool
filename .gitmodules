@@ -13,3 +13,9 @@
 [submodule "o11y-inbound-adaptor"]
 	path = o11y-inbound-adaptor
 	url = https://github.com/unchaptered/o11y-inbound-adaptor
+[submodule "o11y-models"]
+	path = o11y-models
+	url = https://github.com/unchaptered/o11y-models
+[submodule "o11y-modules"]
+	path = o11y-modules
+	url = https://github.com/unchaptered/o11y-modules
