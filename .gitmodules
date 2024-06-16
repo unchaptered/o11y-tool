@@ -1,3 +1,6 @@
 [submodule "o11y-inbound-trigger"]
 	path = o11y-inbound-trigger
 	url = https://github.com/unchaptered/o11y-inbound-trigger
+[submodule "o11y-proxy-core"]
+	path = o11y-proxy-core
+	url = https://github.com/unchaptered/o11y-proxy-core
